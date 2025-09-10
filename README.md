@@ -3,6 +3,9 @@
   <p align="center">A Twitter bot that updates your Twitter bio/location with weekly atmospheric CO2 levels.<p>
 </p>
 
+## Deprecation
+With the end of the free Twitter API, this bot doesn't work anymore. Thus, this repository is archived.
+
 ## Usage
 To use this Twitter bot you'll need a Twitter developer account. Apply for one here: https://developer.twitter.com/en/apply-for-access
 
